@@ -1,0 +1,10 @@
+Student's Id Number : 2
+Student's Name : Rahul
+Student's Marks (OUT OF 100)->
+C++ : 89
+Commmunication Skills : 89
+Computer Graphics : 89
+Mathematics : 89
+Total Marks: 356
+Students's Percentage : 89%
+
